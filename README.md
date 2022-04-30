@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...programming languages
 - 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...python and java and c++ projects
-- 📫 How to reach me ...+963934894002
+- 📫 How to reach me ...00963934894002
 
 
 <!---
